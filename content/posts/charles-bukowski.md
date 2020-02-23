@@ -5,7 +5,7 @@ author =  "suyeonhan"
 description = "this is meta description"
 tags = ["favorite poet"]
 categories = []
-image = "images/charles-bukowski.jpeg"
+image = "charles-bukowski.jpeg"
 +++
 
 ##### _'So you want to be a writer?_' 

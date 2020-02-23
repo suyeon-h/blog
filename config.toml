@@ -1,5 +1,5 @@
 baseurl = ""  # Include trailing slash
-title = "suyeon's blog"
+title = "https://www.hansuyeon.com/"
 theme = "newsroom"
 author = "suyeon"
 copyright = "Copyright © 2020, Weru and the Hugo Authors; all rights reserved."
