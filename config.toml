@@ -1,7 +1,7 @@
 baseurl = "https://www.hansuyeon.com/"  # Include trailing slash
-title = "suyeon's blog"
+title = "soopecial life"
 theme = "newsroom"
-author = "suyeon"
+author = "Suyeon"
 copyright = "Copyright © 2020, Weru and the Hugo Authors; all rights reserved."
 canonifyurls = true
 paginate = 5
