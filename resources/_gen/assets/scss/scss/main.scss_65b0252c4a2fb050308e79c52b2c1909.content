@@ -722,6 +722,7 @@ aside h3 {
 @media screen and (min-width: 1025px) {
   .post img:not(.icon) {
     width: 100%;
+    height: auto;
     max-width: 1024px;
   }
 }
@@ -772,7 +773,8 @@ aside h3 {
 .post_inner img:not(.icon) {
   margin-bottom: 2rem;
   box-shadow: 0 1.5rem 1rem -1rem rgba(0, 0, 0, 0.25);
-  width: 80%;
+  width: auto;
+  height: auto;
 }
 
 .post_inner img:not(.icon) ~ h1, .post_inner img:not(.icon) ~ h2, .post_inner img:not(.icon) ~ h3, .post_inner img:not(.icon) ~ h4 {
